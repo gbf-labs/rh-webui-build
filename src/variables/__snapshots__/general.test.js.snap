@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should return image object based on device info 1`] = `
+<img
+  src="IOP_BDU_600px.png"
+/>
+`;
+
+exports[`should return image object based on device info 2`] = `
+<img
+  src="cisco_switch_48.png"
+/>
+`;
+
+exports[`should return vessel icon based on vessel info 1`] = `
+<img
+  src="30.png"
+/>
+`;
+
+exports[`should return vessel icon based on vessel info 2`] = `
+<img
+  src="round-green.png"
+/>
+`;
